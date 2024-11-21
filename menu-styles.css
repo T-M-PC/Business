@@ -7,7 +7,7 @@ body {
 
 .banner-video {
     width: 80%; /* Makes it not full width */
-    height: 200px; /* Reduced height */
+    height: 270px; /* Reduced height */
     overflow: hidden;
     position: relative;
     margin: 20px auto; /* Centers the banner and adds some spacing */
